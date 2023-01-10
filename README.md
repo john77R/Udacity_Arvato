@@ -17,12 +17,13 @@ matplotlib
 seaborn
 sklearn
 
-Summary of results:
+### Summary of results:
 Basic models such as random forest & SVC lacked the complexity to capture the data set to produce a reasonable accurate result. MLPC was very prone to over fitting using the Sklearn implementation backed with grid search SV, again this produced poor results. GradientBoostingClassifier showed promising results for 77% ROC on grid search.
 GradientBoostingClassifier showed promising results for 77% ROC on grid search.Best CV score = 0.767:
-Model	                ROC
-Random Forest	        0.713
-SVC	                  0.69
+
+1. Model	                ROC
+2. Random Forest	        0.713
+3. SVC	                  0.69
 MLPC	                0.631
 Gradient bosted	      0.755
 Final Gradient bosted	0.77
