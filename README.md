@@ -34,10 +34,10 @@ for more details see the following **blog post:** https://johnxringrose.medium.c
 
 **Data set** thanks to Bertelsmann Arvato & Udacity for providing the dataset.
 
-**Course material ** thanks to Udacity for the excellent course. Found here:
+**Course material** thanks to Udacity for the excellent course. Found here:
 https://www.udacity.com/course/data-scientist-nanodegree--nd025
 
-** References** 
+**References** 
 1. https://github.com/jamiepotter17/arvato/blob/main/Identify_Customer_Segments.ipynb
 
 2. https://github.com/djirmgard/arvato-udacity-project/blob/master/Arvato%20Project%20Workbook.ipynb
@@ -45,7 +45,7 @@ https://www.udacity.com/course/data-scientist-nanodegree--nd025
 3. https://github.com/mkeisenbach/arvato/blob/master/segmentation/Arvato%20Project%20Workbook.ipynb
 
 4. https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-imbalanced-classification/
-( see full list in python note book)
+. ( see full list in python note book)
 
 ### Licence:
 MIT Licence.
